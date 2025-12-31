@@ -129,10 +129,10 @@ This project extensively applies object-oriented design patterns to solve common
 
 The system includes a robust role-based access control (RBAC) mechanism to ensure security and proper access management. Each user is assigned a specific role that determines their permissions within the system.
 
-- Administrator : Full access to all modules (Patient Records, Appointments, Billing, Reports, Staff Management).
-- Doctor : Limited to Patient Records, Appointments (Confirm and delete appointments), Reports (Patient Summary and Diagnostic Reports).
-- Nurse : Limited to Patient Records, Appointments and Billing (Consultation Fee).
-- Pharmacist : Limited to Billing & Claims.
+- **Administrator :** Full access to all modules (Patient Records, Appointments, Billing, Reports, Staff Management).
+- **Doctor :** Limited to Patient Records, Appointments (Confirm and delete appointments), Reports (Patient Summary and Diagnostic Reports).
+- **Nurse :** Limited to Patient Records, Appointments and Billing (Consultation Fee).
+- **Pharmacist :** Limited to Billing & Claims.
 
 ## Project Objective 🎯
 
@@ -143,11 +143,11 @@ The objective of **Globe Med Healthcare** is to provide a centralized medical ma
   <tr>
     <td align="center">
       <img src="preview_images/Sign In.png" width="400"><br>
-      <b>Loading Page</b>
+      <b>Sign In Page</b>
     </td>
     <td align="center">
       <img src="preview_images/Home.png" width="400"><br>
-      <b>Sign In Page</b>
+      <b>Home Page</b>
     </td>
   </tr>
 </table>
